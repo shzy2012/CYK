@@ -1,3 +1,5 @@
+
+//作者：http://yyl20020115.blog.163.com/blog/static/234684220201441435513647/
 namespace CYKSharp
 {
     using System;
